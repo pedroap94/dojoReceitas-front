@@ -1,0 +1,12 @@
+.footer-body {
+  background-color: #AA9090;
+  height: 5%;
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  justify-content: right;
+  font-family: "Helvetica Neue";
+  text-align: end;
+  font-size: 1rem;
+}

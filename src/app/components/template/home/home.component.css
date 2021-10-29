@@ -1,0 +1,11 @@
+.container{
+  background-color: #AA9090;
+  height: 85%;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.text{
+  display: flex;
+}
